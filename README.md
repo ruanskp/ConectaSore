@@ -40,8 +40,5 @@ No Windows, o executável será `target\\release\\megastore.exe`.
 ## Desempenho
 Ainda não há resultados de benchmark registrados. Execute os testes e acrescente medições reais antes da entrega. Não apresente estimativas como se fossem resultados medidos.
 
-## Vídeo pitch
-Adicionar aqui o link público ou não listado depois de gravar o vídeo.
-
 ## Observações
 Projeto acadêmico com dados fictícios. A pontuação e os pesos são demonstrativos e devem ser validados antes de uso comercial.
